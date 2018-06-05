@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "返回函数", "返回函数\返回函数.pyproj", "{799BD80C-1EEC-43A1-9C21-5B36D19D2D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799BD80C-1EEC-43A1-9C21-5B36D19D2D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799BD80C-1EEC-43A1-9C21-5B36D19D2D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF07C3A8-9E04-462C-BF98-C551B6346D95}
+	EndGlobalSection
+EndGlobal

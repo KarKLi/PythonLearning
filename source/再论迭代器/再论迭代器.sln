@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "再论迭代器", "再论迭代器\再论迭代器.pyproj", "{0B9DBAF1-72B8-4F19-BBD4-6095CB91A15F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9DBAF1-72B8-4F19-BBD4-6095CB91A15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9DBAF1-72B8-4F19-BBD4-6095CB91A15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BE71906-0925-427A-B90C-4D617BFC65E3}
+	EndGlobalSection
+EndGlobal
